@@ -1,0 +1,83 @@
+    1  git status
+    2  gitinitls
+    3  ls
+    4  pwd
+    5  mkdir gitone
+    6  ls
+    7  cd gitone
+    8  ls
+    9  gitinit
+   10  git init
+   11  git status
+   12  ls -l
+   13  ls -la
+   14  cd .git
+   15  ls
+   16  ls -la
+   17  cat HEAD
+   18  git status
+   19  git init
+   20  git stagus
+   21  git status
+   22  cd
+   23  git status
+   24  cd gitone
+   25  git status
+   26  ls -la
+   27  cd ..
+   28  mkdir git2
+   29  ls
+   30  cd git2
+   31  ls
+   32  git status
+   33  git init
+   34  git status
+   35  ls -la
+   36  cat >> main.xml
+   37  cat > main.xml
+   38  cat main.xml
+   39  ls
+   40  cat >> new.xml
+   41  git status
+   42  rm new.xml
+   43  git status
+   44  git add main.xml
+   45  git status
+   46  git commit -m "created main.xml id 123"
+   47  git config --global user.name "abdul"
+   48  git commit -m "created main.xml id 123"
+   49  su abdul
+   50  git config --global user.email "abdulrahman977@gmail.com"
+   51  git commit -m "created main.xml id 123"
+   52  git config --list
+   53  git log 
+   54  git log --oneline
+   55  ls
+   56  cat >> main.xml
+   57  git status
+   58  ls
+   59  git add main.xml
+   60  git status
+   61  git commit -m "installed c++"
+   62  git status
+   63  git log
+   64  git log --oneline
+   65  history
+   66  git log
+   67  git log --oneline
+   68  git checkout 55f1428
+   69  git log --online
+   70  git log --oneline
+   71  git status
+   72  cat main.xml
+   73  git checkout master
+   74  cat main.xml
+   75  git status
+   76  git log --oneline
+   77  git sgatus
+   78  git status
+   79  hisgory
+   80  history
+   81  git add .
+   82  .gitignore
+   83  history > history.txt
